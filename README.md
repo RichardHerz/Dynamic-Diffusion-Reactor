@@ -1,5 +1,5 @@
 # Dynamic Diffusion Reactor - DDR
-Shop plans & publication references for the Dynamic Diffusion Reactor, DDR, which is used to measure dynamically gas composition at the outside and the center of a porous catalyst pellet.
+Shop plans, photos and publication references for the Dynamic Diffusion Reactor, DDR, which is used to measure gas composition at the outside and the center of a porous catalyst pellet under dynamic conditions.
 
 <h3> PUBLICATIONS </h3>
 
